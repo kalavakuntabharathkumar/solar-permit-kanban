@@ -1,0 +1,5 @@
+[
+  {"job_number":"P001","permit_status":"Submitted","submitted_date":"2024-01-15","contractor_name":"SolarCo NYC","house_number":"123","street_name":"Main St","borough":"Manhattan","zip_code":"10001","system_size_kw":"5.2"},
+  {"job_number":"P002","permit_status":"Approved","submitted_date":"2024-01-10","approved_date":"2024-01-12","contractor_name":"SunPower","house_number":"456","street_name":"Oak Ave","borough":"Brooklyn","zip_code":"11201","system_size_kw":"8.0"},
+  {"job_number":"P003","permit_status":"Scheduled","submitted_date":"2024-01-05","approved_date":"2024-01-08","scheduled_date":"2024-01-20","contractor_name":"GreenEnergy","house_number":"789","street_name":"Elm St","borough":"Queens","zip_code":"11355","system_size_kw":"6.5"}
+]
